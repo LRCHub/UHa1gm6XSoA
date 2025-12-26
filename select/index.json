@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "星空のメロディー",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2025-12-26T03:33:35.979150Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星空のメロディー (feat. 天馬司&鳳えむ&草薙寧々&神代類&MEIKO)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/01_星空のメロディー_(feat._天馬司&鳳えむ&草薙寧々&神代類&MEIKO)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星空のメロディー",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類&MEIKO",
+      "has_synced": true,
+      "path": "select/02_星空のメロディー_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星空のメロディー",
+      "artist": "ワンダーランズ x ショウタイム",
+      "has_synced": true,
+      "path": "select/03_星空のメロディー_ワンダーランズ_x_ショウタイム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星空のメロディー (feat. 天馬司&鳳えむ&草薙寧々&神代類&MEIKO)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_星空のメロディー_(feat._天馬司&鳳えむ&草薙寧々&神代類&MEIKO)_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
